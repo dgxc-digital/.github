@@ -1,2 +1,3 @@
-# .github
-A ✨special ✨ repository to add a README.md to the DGxC public organization profile, visible to anyone.
+# DGxC
+
+See more at the [DGxC Website](https://dgxc.digital/).
